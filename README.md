@@ -1,4 +1,4 @@
-Deplyed site: https://github.com/bealun/project-food-giraffes.git
+Deplyed site: https://vigilant-ride-a6ef97.netlify.com
 
 
 
