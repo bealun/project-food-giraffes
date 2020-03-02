@@ -1,3 +1,7 @@
+Deplyed site: https://github.com/bealun/project-food-giraffes.git
+
+
+
 # Build a Food Review website 🌮🥑
 
 During this week we will meet-up in Sthlm – YAY! During those days we will practice our JavaScript and API skills a bit more. We will also practice working as a real team using GitHub. You will experience, first-hand, the issues and struggles that can occur when working together with code. 
