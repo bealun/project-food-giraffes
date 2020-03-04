@@ -1,4 +1,4 @@
-Deplyed site: https://vigilant-ride-a6ef97.netlify.com
+Deplyed site: https://giraffe-food-project.netlify.com
 
 
 
