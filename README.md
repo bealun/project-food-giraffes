@@ -1,4 +1,4 @@
-#Food Review website 🌮🥑
+# Food Review website 🌮🥑
 
 Food review site for Japanese cuisine in London using the Zomato API in a team of 8 🇯🇵💥🍣🌸
 
